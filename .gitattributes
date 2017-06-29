@@ -59,6 +59,7 @@
 *.egg filter=lfs diff=lfs merge=lfs -text
 *.eol filter=lfs diff=lfs merge=lfs -text
 *.eot filter=lfs diff=lfs merge=lfs -text
+*.eps filter=lfs diff=lfs merge=lfs -text
 *.epub filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.f4v filter=lfs diff=lfs merge=lfs -text
